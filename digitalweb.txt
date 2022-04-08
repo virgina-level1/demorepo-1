@@ -1,0 +1,762 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Digital Web -</title>
+	<link rel="canonical" href="https://www.digital-web.com/" />
+	<link rel="next" href="https://www.digital-web.com/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Digital Web" />
+	<meta property="og:url" content="https://www.digital-web.com/" />
+	<meta property="og:site_name" content="Digital Web" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.digital-web.com/#website","url":"https://www.digital-web.com/","name":"Digital Web","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.digital-web.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://www.digital-web.com/#webpage","url":"https://www.digital-web.com/","name":"Digital Web -","isPartOf":{"@id":"https://www.digital-web.com/#website"},"breadcrumb":{"@id":"https://www.digital-web.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.digital-web.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.digital-web.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":""}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Digital Web &raquo; Feed" href="https://www.digital-web.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Digital Web &raquo; Comments Feed" href="https://www.digital-web.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.digital-web.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.digital-web.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='titan-adminbar-styles-css'  href='https://www.digital-web.com/wp-content/plugins/anti-spam/assets/css/admin-bar.css?ver=7.2.9' media='all' />
+<link rel='stylesheet' id='wsl-widget-css'  href='https://www.digital-web.com/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=5.9.3' media='all' />
+<link rel='stylesheet' id='generate-style-grid-css'  href='https://www.digital-web.com/wp-content/themes/generatepress/assets/css/unsemantic-grid.min.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='generate-style-css'  href='https://www.digital-web.com/wp-content/themes/generatepress/assets/css/style.min.css?ver=3.0.3' media='all' />
+<style id='generate-style-inline-css'>
+body{background-color:#ffffff;color:#3a3a3a;}a{color:#1e73be;}a:hover, a:focus, a:active{color:#000000;}body .grid-container{max-width:1220px;}.wp-block-group__inner-container{max-width:1220px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:190px;}.navigation-search{position:absolute;left:-99999px;pointer-events:none;visibility:hidden;z-index:20;width:100%;top:0;transition:opacity 100ms ease-in-out;opacity:0;}.navigation-search.nav-search-active{left:0;right:0;pointer-events:auto;visibility:visible;opacity:1;}.navigation-search input[type="search"]{outline:0;border:0;vertical-align:bottom;line-height:1;opacity:0.9;width:100%;z-index:20;border-radius:0;-webkit-appearance:none;height:60px;}.navigation-search input::-ms-clear{display:none;width:0;height:0;}.navigation-search input::-ms-reveal{display:none;width:0;height:0;}.navigation-search input::-webkit-search-decoration, .navigation-search input::-webkit-search-cancel-button, .navigation-search input::-webkit-search-results-button, .navigation-search input::-webkit-search-results-decoration{display:none;}.main-navigation li.search-item{z-index:21;}li.search-item.active{transition:opacity 100ms ease-in-out;}.nav-left-sidebar .main-navigation li.search-item.active,.nav-right-sidebar .main-navigation li.search-item.active{width:auto;display:inline-block;float:right;}.gen-sidebar-nav .navigation-search{top:auto;bottom:0;}body, button, input, select, textarea{font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";font-size:15px;}body{line-height:1.5;}.entry-content > [class*="wp-block-"]:not(:last-child){margin-bottom:1.5em;}.main-title{font-size:45px;}.main-navigation .main-nav ul ul li a{font-size:14px;}.sidebar .widget, .footer-widgets .widget{font-size:17px;}h1{font-weight:300;font-size:40px;}h2{font-weight:300;font-size:30px;}h3{font-size:20px;}h4{font-size:inherit;}h5{font-size:inherit;}@media (max-width:768px){.main-title{font-size:30px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:#ffffff;color:#3a3a3a;}.site-header a{color:#3a3a3a;}.main-title a,.main-title a:hover{color:#222222;}.site-description{color:#757575;}.mobile-menu-control-wrapper .menu-toggle,.mobile-menu-control-wrapper .menu-toggle:hover,.mobile-menu-control-wrapper .menu-toggle:focus,.has-inline-mobile-toggle #site-navigation.toggled{background-color:rgba(0, 0, 0, 0.02);}.main-navigation,.main-navigation ul ul{background-color:#ffffff;}.main-navigation .main-nav ul li a,.menu-toggle, .main-navigation .menu-bar-items{color:#353535;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:#ffffff;background-color:#3f3f3f;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#353535;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#3f3f3f;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#3f3f3f;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:#ffffff;background-color:#3f3f3f;}.main-navigation ul ul{background-color:#3f3f3f;}.main-navigation .main-nav ul ul li a{color:#ffffff;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#4f4f4f;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:#f7f7f7;}.inside-article a,.paging-navigation a,.comments-area a,.page-header a{color:#3498db;}.entry-meta{color:#595959;}.entry-meta a{color:#595959;}.entry-meta a:hover{color:#3498db;}.sidebar .widget{background-color:#ffffff;}.sidebar .widget a{color:#3498db;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{background-color:#ffffff;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#ffffff;background-color:#222222;}.site-info a{color:#ffffff;}.site-info a:hover{color:#606060;}.footer-bar .widget_nav_menu .current-menu-item a{color:#606060;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#ef631c;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#ef8651;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}@media (max-width: 768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:#353535;}}.inside-top-bar{padding:10px;}.inside-header{padding:40px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}.site-info{padding:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header, .wp-block-group__inner-container{padding:30px;}.site-info{padding-right:10px;padding-left:10px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}}/* End cached CSS */@media (max-width: 768px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav{display:none;}[class*="nav-float-"] .site-header .inside-header > *{float:none;clear:both;}}
+.main-navigation .slideout-toggle a:before,.slide-opened .slideout-overlay .slideout-exit:before{font-family:GeneratePress;}.slideout-navigation .dropdown-menu-toggle:before{content:"\f107" !important;}.slideout-navigation .sfHover > a .dropdown-menu-toggle:before{content:"\f106" !important;}
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css'  href='https://www.digital-web.com/wp-content/themes/generatepress/assets/css/mobile.min.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='generate-font-icons-css'  href='https://www.digital-web.com/wp-content/themes/generatepress/assets/css/components/font-icons.min.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='generate-navigation-branding-css'  href='https://www.digital-web.com/wp-content/plugins/gp-premium/menu-plus/functions/css/navigation-branding.min.css?ver=1.8.2' media='all' />
+<style id='generate-navigation-branding-inline-css'>
+.navigation-branding .main-title{font-size:25px;font-weight:bold;}.navigation-branding img, .site-logo.mobile-header-logo img{height:60px;width:auto;}.navigation-branding .main-title{line-height:60px;}@media (max-width: 1230px){#site-navigation .navigation-branding, #sticky-navigation .navigation-branding{margin-left:10px;}}@media (max-width: 768px){.main-navigation:not(.slideout-navigation) .main-nav{-ms-flex:0 0 100%;flex:0 0 100%;}.main-navigation:not(.slideout-navigation) .inside-navigation{-ms-flex-wrap:wrap;flex-wrap:wrap;display:-webkit-box;display:-ms-flexbox;display:flex;}.nav-aligned-center .navigation-branding, .nav-aligned-left .navigation-branding{margin-right:auto;}.nav-aligned-center  .main-navigation.has-branding:not(.slideout-navigation) .inside-navigation .main-nav,.nav-aligned-center  .main-navigation.has-sticky-branding.navigation-stick .inside-navigation .main-nav,.nav-aligned-left  .main-navigation.has-branding:not(.slideout-navigation) .inside-navigation .main-nav,.nav-aligned-left  .main-navigation.has-sticky-branding.navigation-stick .inside-navigation .main-nav{margin-right:0px;}}
+</style>
+<link rel="https://api.w.org/" href="https://www.digital-web.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.digital-web.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.digital-web.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.3" />
+<style type="text/css" id="simple-css-output">.main-navigation { border-bottom: 1px solid #3498db;}.navigation-branding img, .site-logo.mobile-header-logo img { height: 54px;}.sidebar .widget { border-left: 1px solid #3498db;}.sidebar .widget, .footer-widgets .widget { font-size: 15px;}.footer-widgets { border-top: 1px solid #3498db;}.site-info { color: #353535; background-color: #f7f7f7; font-size: 13px;}</style><meta name="viewport" content="width=device-width, initial-scale=1"></head>
+
+<body class="home blog wp-custom-logo wp-embed-responsive sticky-menu-fade right-sidebar nav-below-header separate-containers fluid-header active-footer-widgets-3 nav-search-enabled nav-aligned-right header-aligned-left dropdown-hover" itemtype="https://schema.org/Blog" itemscope>
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<nav id="site-navigation" class="has-branding main-navigation sub-menu-right" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container grid-parent">
+				<div class="navigation-branding"><div class="site-logo">
+					<a href="https://www.digital-web.com/" title="Digital Web" rel="home">
+						<img  class="header-image" alt="Digital Web" src="https://www.digital-web.com/wp-content/uploads/2009/03/digital-web-logo.png" title="Digital Web" />
+					</a>
+				</div></div><form method="get" class="search-form navigation-search" action="https://www.digital-web.com/">
+					<input type="search" class="search-field" value="" name="s" title="Search" />
+				</form>		<div class="mobile-bar-items">
+						<span class="search-item">
+				<a aria-label="Open Search Bar" href="#">
+									</a>
+			</span>
+		</div>
+						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="mobile-menu">Menu</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-main-navigation" class=" menu sf-menu"><li id="menu-item-12025" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-12025"><a href="http://www.digital-web.com/" aria-current="page">Home</a></li>
+<li id="menu-item-10049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10049"><a href="https://www.digital-web.com/category/articles/">Articles</a></li>
+<li id="menu-item-10050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10050"><a href="https://www.digital-web.com/category/general/">General</a></li>
+<li id="menu-item-10051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10051"><a href="https://www.digital-web.com/category/tutorials/">Tutorials</a></li>
+<li id="menu-item-10052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10052"><a href="https://www.digital-web.com/category/interviews/">Interviews</a></li>
+<li id="menu-item-10053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10053"><a href="https://www.digital-web.com/category/news/">News</a></li>
+<li class="search-item menu-item-align-right"><a aria-label="Open Search Bar" href="#"></a></li></ul></div>			</div>
+		</nav>
+		
+	<div id="page" class="site grid-container container hfeed grid-parent">
+				<div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75">
+		<main id="main" class="site-main">
+			<article id="post-9935" class="post-9935 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-features category-general" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/general/the-power-and-problems-of-provisional-personas-in-ux-design/" rel="bookmark">The Power and Problems of Provisional Personas in UX design</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2018-07-24T17:52:40+00:00" itemprop="dateModified">July 24, 2018</time><time class="entry-date published" datetime="2016-01-19T17:47:00+00:00" itemprop="datePublished">January 19, 2016</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/general/the-power-and-problems-of-provisional-personas-in-ux-design/">
+							<img width="1000" height="665" src="https://www.digital-web.com/wp-content/uploads/2016/01/UX-phone-image.jpg" class="attachment-full size-full wp-post-image" alt="UX cell phone image" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2016/01/UX-phone-image.jpg 1000w, https://www.digital-web.com/wp-content/uploads/2016/01/UX-phone-image-300x200.jpg 300w, https://www.digital-web.com/wp-content/uploads/2016/01/UX-phone-image-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Personas are an oft used and highly touted communication and usability tool. They can help summarize what you know about the user, highlight pain points, and point out potential opportunities to customize your products for your users.  In sum, they keep product development focused on your target market, rather than the world at large. </p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/features/" rel="category tag">Features</a>, <a href="https://www.digital-web.com/category/general/" rel="category tag">General</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10533" class="post-10533 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/seo/" rel="bookmark">Articles by Topic: Search Engine Optimization (SEO)</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-05-16T08:03:03+00:00" itemprop="dateModified">May 16, 2019</time><time class="entry-date published" datetime="2018-08-03T08:57:34+00:00" itemprop="datePublished">August 3, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/seo/">
+							<img width="1280" height="853" src="https://www.digital-web.com/wp-content/uploads/2018/08/seo.jpg" class="attachment-full size-full wp-post-image" alt="SEO Analytics" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/seo.jpg 1280w, https://www.digital-web.com/wp-content/uploads/2018/08/seo-300x200.jpg 300w, https://www.digital-web.com/wp-content/uploads/2018/08/seo-768x512.jpg 768w, https://www.digital-web.com/wp-content/uploads/2018/08/seo-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Review: Website Optimization Published on November 11, 2008 Interview: Aarron Walter Published on October 28, 2008 Review: Building Findable Websites Published on June 9, 2008 Free Your Embedded Data With SearchMonkey Published on June 3, 2008 Caphyon Advanced Web Ranking Published on June 19, 2006 Toronto Search Engine Strategies Conference Published on May 25, 2005 &#8230; <a title="Articles by Topic: Search Engine Optimization (SEO)" class="read-more" href="https://www.digital-web.com/topics/seo/" aria-label="More on Articles by Topic: Search Engine Optimization (SEO)">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10531" class="post-10531 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/rss-2/" rel="bookmark">Articles by Topic: RSS</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-05-16T08:04:56+00:00" itemprop="dateModified">May 16, 2019</time><time class="entry-date published" datetime="2018-08-03T08:51:30+00:00" itemprop="datePublished">August 3, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/rss-2/">
+							<img width="1280" height="1280" src="https://www.digital-web.com/wp-content/uploads/2018/08/rss-icon.png" class="attachment-full size-full wp-post-image" alt="" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/rss-icon.png 1280w, https://www.digital-web.com/wp-content/uploads/2018/08/rss-icon-150x150.png 150w, https://www.digital-web.com/wp-content/uploads/2018/08/rss-icon-300x300.png 300w, https://www.digital-web.com/wp-content/uploads/2018/08/rss-icon-768x768.png 768w, https://www.digital-web.com/wp-content/uploads/2018/08/rss-icon-1024x1024.png 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>APIs and Mashups For The Rest Of Us Published on June 4, 2007 Where Did My Beautiful Internet Go? Published on January 29, 2007 Home Alone? How Content Aggregators Change Navigation and Control of Content Published on November 3, 2004 Bradbury Software FeedDemon 1.0 Published on May 26, 2004</p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10528" class="post-10528 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/liquid-web-design-2/" rel="bookmark">Articles by Topic: Liquid Web Design</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-05-16T18:15:49+00:00" itemprop="dateModified">May 16, 2019</time><time class="entry-date published" datetime="2018-08-03T07:30:15+00:00" itemprop="datePublished">August 3, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/liquid-web-design-2/">
+							<img width="2268" height="2835" src="https://www.digital-web.com/wp-content/uploads/2018/08/liquid-web-design.jpg" class="attachment-full size-full wp-post-image" alt="Liquid Web Design" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/liquid-web-design.jpg 2268w, https://www.digital-web.com/wp-content/uploads/2018/08/liquid-web-design-240x300.jpg 240w, https://www.digital-web.com/wp-content/uploads/2018/08/liquid-web-design-768x960.jpg 768w, https://www.digital-web.com/wp-content/uploads/2018/08/liquid-web-design-819x1024.jpg 819w" sizes="(max-width: 2268px) 100vw, 2268px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Web Design 101: Floats Published on September 10, 2007 Preparing for Widescreen Published on March 27, 2006 Designing for the Web Published on January 9, 2006 Forging a partnership between designer and user Published on September 1, 2004 Fluid Thinking Published on October 2, 2002 Form vs. Function: Finding the Balance Published on October 29, &#8230; <a title="Articles by Topic: Liquid Web Design" class="read-more" href="https://www.digital-web.com/topics/liquid-web-design-2/" aria-label="More on Articles by Topic: Liquid Web Design">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10526" class="post-10526 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/kiss/" rel="bookmark">Articles by Topic: Keep It Simple (KISS)</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-05-16T17:13:54+00:00" itemprop="dateModified">May 16, 2019</time><time class="entry-date published" datetime="2018-08-03T07:24:11+00:00" itemprop="datePublished">August 3, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/kiss/">
+							<img width="1280" height="1280" src="https://www.digital-web.com/wp-content/uploads/2018/08/kiss-web-design-articles.png" class="attachment-full size-full wp-post-image" alt="keep-it-simple" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/kiss-web-design-articles.png 1280w, https://www.digital-web.com/wp-content/uploads/2018/08/kiss-web-design-articles-150x150.png 150w, https://www.digital-web.com/wp-content/uploads/2018/08/kiss-web-design-articles-300x300.png 300w, https://www.digital-web.com/wp-content/uploads/2018/08/kiss-web-design-articles-768x768.png 768w, https://www.digital-web.com/wp-content/uploads/2018/08/kiss-web-design-articles-1024x1024.png 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Keep CSS Simple Published on November 6, 2003 Keep JavaScript Simple Published on July 25, 2003 Navigation Complex Published on December 17, 2002 Simplicity vs. Innovation Published on November 25, 2002 Fluid Thinking Published on October 2, 2002 Keep it Simple Published on August 26, 2002 Matthew Linderman and Jason Fried Published on June 21, &#8230; <a title="Articles by Topic: Keep It Simple (KISS)" class="read-more" href="https://www.digital-web.com/topics/kiss/" aria-label="More on Articles by Topic: Keep It Simple (KISS)">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10524" class="post-10524 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/information-design/" rel="bookmark">Articles by Topic: Information Design</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-05-16T17:20:18+00:00" itemprop="dateModified">May 16, 2019</time><time class="entry-date published" datetime="2018-08-03T06:44:32+00:00" itemprop="datePublished">August 3, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/information-design/">
+							<img width="445" height="340" src="https://www.digital-web.com/wp-content/uploads/2018/08/statistic-1820320__340.png" class="attachment-full size-full wp-post-image" alt="page-design" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/statistic-1820320__340.png 445w, https://www.digital-web.com/wp-content/uploads/2018/08/statistic-1820320__340-300x229.png 300w" sizes="(max-width: 445px) 100vw, 445px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Understanding Disabilities when Designing a Website Published on September 16, 2008 Web Design by Designers Published on August 26, 2008 Getting The Most Out Of Your Library Published on August 12, 2008 Review: Web Form Design by Luke Wroblewski Published on August 5, 2008 How Environments, Real And Virtual, Influence Us Published on August 5, &#8230; <a title="Articles by Topic: Information Design" class="read-more" href="https://www.digital-web.com/topics/information-design/" aria-label="More on Articles by Topic: Information Design">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10522" class="post-10522 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/graphic-design-2/" rel="bookmark">Articles by Topic: Graphic Design</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T18:06:39+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-03T06:38:06+00:00" itemprop="datePublished">August 3, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/graphic-design-2/">
+							<img width="510" height="340" src="https://www.digital-web.com/wp-content/uploads/2018/08/workplace-2230698__340.jpg" class="attachment-full size-full wp-post-image" alt="graphic-design" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/workplace-2230698__340.jpg 510w, https://www.digital-web.com/wp-content/uploads/2018/08/workplace-2230698__340-300x200.jpg 300w" sizes="(max-width: 510px) 100vw, 510px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Cooking With Stock Published on September 9, 2008 Web Design by Designers Published on August 26, 2008 Photoshop vs Fireworks Published on July 22, 2008 The Education of Geeks and Freaks Published on June 17, 2008 Web Design 101: Photoshop Published on April 15, 2008 Creating The Perfect Portfolio Published on January 29, 2008 Collecting &#8230; <a title="Articles by Topic: Graphic Design" class="read-more" href="https://www.digital-web.com/topics/graphic-design-2/" aria-label="More on Articles by Topic: Graphic Design">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10520" class="post-10520 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/flash/" rel="bookmark">Articles by Topic: Flash</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T15:54:31+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-03T06:23:23+00:00" itemprop="datePublished">August 3, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/flash/">
+							<img width="960" height="665" src="https://www.digital-web.com/wp-content/uploads/2018/08/youtube-1684601_960_720.png" class="attachment-full size-full wp-post-image" alt="video on a website" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/youtube-1684601_960_720.png 960w, https://www.digital-web.com/wp-content/uploads/2018/08/youtube-1684601_960_720-300x208.png 300w, https://www.digital-web.com/wp-content/uploads/2018/08/youtube-1684601_960_720-768x532.png 768w" sizes="(max-width: 960px) 100vw, 960px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>head Conference Q&amp;A with Aral Balkan Published on October 7, 2008 Flash Player 9: Bringing HD Flash Video to the Web Published on October 29, 2007 Captions for Video with Flash CS3 (Part Two) Published on July 9, 2007 Captions for Video with Flash CS3 Published on June 4, 2007 The Road to Actionscript 3 &#8230; <a title="Articles by Topic: Flash" class="read-more" href="https://www.digital-web.com/topics/flash/" aria-label="More on Articles by Topic: Flash">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10517" class="post-10517 post type-post status-publish format-standard has-post-thumbnail hentry category-columns" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/columns/artofinteraction/" rel="bookmark">Art of Interaction Column</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T17:08:30+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-03T05:57:07+00:00" itemprop="datePublished">August 3, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/columns/artofinteraction/">
+							<img width="1050" height="700" src="https://www.digital-web.com/wp-content/uploads/2018/08/colums.jpeg" class="attachment-full size-full wp-post-image" alt="three columns" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/colums.jpeg 1050w, https://www.digital-web.com/wp-content/uploads/2018/08/colums-300x200.jpeg 300w, https://www.digital-web.com/wp-content/uploads/2018/08/colums-768x512.jpeg 768w, https://www.digital-web.com/wp-content/uploads/2018/08/colums-1024x683.jpeg 1024w" sizes="(max-width: 1050px) 100vw, 1050px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>When it comes to creating user interfaces, design and aesthetics are not just frills. The design should not simply take a back seat to function or content. Everyone agrees that good user experience is important but many miss the fact that design plays an integral role. In his column, Art of Interaction, Didier Hilhorst will assess &#8230; <a title="Art of Interaction Column" class="read-more" href="https://www.digital-web.com/columns/artofinteraction/" aria-label="More on Art of Interaction Column">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/columns/" rel="category tag">Columns</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10305" class="post-10305 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/business/" rel="bookmark">Articles by Topic: Business</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-05-16T18:39:37+00:00" itemprop="dateModified">May 16, 2019</time><time class="entry-date published" datetime="2018-08-01T18:55:00+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/business/">
+							<img width="534" height="340" src="https://www.digital-web.com/wp-content/uploads/2018/08/business-2884023__340.jpg" class="attachment-full size-full wp-post-image" alt="business-meeting" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/business-2884023__340.jpg 534w, https://www.digital-web.com/wp-content/uploads/2018/08/business-2884023__340-300x191.jpg 300w" sizes="(max-width: 534px) 100vw, 534px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>eCRM: A Virtual Reality Check For Your Business Published on July 29, 2008 Why Do Web Startups Die? Lack of Alphalpha Published on June 10, 2008 Presenting: Preparation, Process, and Pizzazz Published on April 9, 2008 How to Build a Green Business Published on February 19, 2008 Creating The Perfect Portfolio Published on January 29, &#8230; <a title="Articles by Topic: Business" class="read-more" href="https://www.digital-web.com/topics/business/" aria-label="More on Articles by Topic: Business">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10299" class="post-10299 post type-post status-publish format-standard has-post-thumbnail hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/web-design-101/" rel="bookmark">Web Design 101</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T17:14:00+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-01T10:30:28+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/types/web-design-101/">
+							<img width="935" height="737" src="https://www.digital-web.com/wp-content/uploads/2018/08/website-design.jpeg" class="attachment-full size-full wp-post-image" alt="website design" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/website-design.jpeg 935w, https://www.digital-web.com/wp-content/uploads/2018/08/website-design-300x236.jpeg 300w, https://www.digital-web.com/wp-content/uploads/2018/08/website-design-768x605.jpeg 768w" sizes="(max-width: 935px) 100vw, 935px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Part of the strength of the web design community comes from its willingness to share the latest tips, tricks, and techniques &#8211; but when it comes to resources for beginners, the sheer level of information (and sometimes disinformation) available on the web can be daunting. Written for beginners—or those who&#8217;d like a good review—each article &#8230; <a title="Web Design 101" class="read-more" href="https://www.digital-web.com/types/web-design-101/" aria-label="More on Web Design 101">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10297" class="post-10297 post type-post status-publish format-standard has-post-thumbnail hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/book-reviews/" rel="bookmark">Book Reviews</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T18:13:59+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-01T10:19:56+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/types/book-reviews/">
+							<img width="1733" height="1300" src="https://www.digital-web.com/wp-content/uploads/2018/08/books-education-school-literature-51342.jpeg" class="attachment-full size-full wp-post-image" alt="books" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/books-education-school-literature-51342.jpeg 1733w, https://www.digital-web.com/wp-content/uploads/2018/08/books-education-school-literature-51342-300x225.jpeg 300w, https://www.digital-web.com/wp-content/uploads/2018/08/books-education-school-literature-51342-768x576.jpeg 768w, https://www.digital-web.com/wp-content/uploads/2018/08/books-education-school-literature-51342-1024x768.jpeg 1024w, https://www.digital-web.com/wp-content/uploads/2018/08/books-education-school-literature-51342-86x64.jpeg 86w" sizes="(max-width: 1733px) 100vw, 1733px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Publishers release thousands of web-related books each year. How effective, important, well-written, or useful are these guides? When a book is highly anticipated or looks particularly interesting, we publish a review by a staff member or contributing author, outlining who it’s written for, what you’ll learn, and if it’s worth your hard-earned money. Web Design &#8230; <a title="Book Reviews" class="read-more" href="https://www.digital-web.com/types/book-reviews/" aria-label="More on Book Reviews">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10295" class="post-10295 post type-post status-publish format-standard has-post-thumbnail hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/articles/" rel="bookmark">Articles</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T17:45:13+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-01T10:05:21+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/types/articles/">
+							<img width="1051" height="701" src="https://www.digital-web.com/wp-content/uploads/2018/08/articles-on-computer.jpeg" class="attachment-full size-full wp-post-image" alt="articles on a computer" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/articles-on-computer.jpeg 1051w, https://www.digital-web.com/wp-content/uploads/2018/08/articles-on-computer-300x200.jpeg 300w, https://www.digital-web.com/wp-content/uploads/2018/08/articles-on-computer-768x512.jpeg 768w, https://www.digital-web.com/wp-content/uploads/2018/08/articles-on-computer-1024x683.jpeg 1024w" sizes="(max-width: 1051px) 100vw, 1051px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>We publish articles on virtually every topic related to creating and maintaining websites—web design, web development, information architecture, business, and usability. Our volunteer authors and columnists are experts in their fields, offering insights, tutorials, and explorations of a wide range of subjects that talk directly to the professionals in our industry. Form vs. Function: Finding &#8230; <a title="Articles" class="read-more" href="https://www.digital-web.com/types/articles/" aria-label="More on Articles">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10293" class="post-10293 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/hci/" rel="bookmark">Articles by Topic: Human-Computer Interaction (HCI)</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-05-17T18:35:49+00:00" itemprop="dateModified">May 17, 2019</time><time class="entry-date published" datetime="2018-08-01T09:05:26+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/hci/">
+							<img width="510" height="340" src="https://www.digital-web.com/wp-content/uploads/2018/08/student-849825__340.jpg" class="attachment-full size-full wp-post-image" alt="man-at-work" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/student-849825__340.jpg 510w, https://www.digital-web.com/wp-content/uploads/2018/08/student-849825__340-300x200.jpg 300w" sizes="(max-width: 510px) 100vw, 510px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Are Accessibility Statements Useful? Published on November 12, 2008 Portable Social Networks, The Building Blocks Of A Social Web Published on July 1, 2008 Usability for Rich Internet Applications Published on February 20, 2006 The Psychology of Navigation Published on December 17, 2002</p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10291" class="post-10291 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/usability/" rel="bookmark">Articles by Topic: Usability</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T17:47:21+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-01T08:40:54+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/usability/">
+							<img width="1050" height="700" src="https://www.digital-web.com/wp-content/uploads/2018/08/usability.jpeg" class="attachment-full size-full wp-post-image" alt="person holding a tablet browsing the web" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/usability.jpeg 1050w, https://www.digital-web.com/wp-content/uploads/2018/08/usability-300x200.jpeg 300w, https://www.digital-web.com/wp-content/uploads/2018/08/usability-768x512.jpeg 768w, https://www.digital-web.com/wp-content/uploads/2018/08/usability-1024x683.jpeg 1024w" sizes="(max-width: 1050px) 100vw, 1050px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Interview: Aarron Walter Published on October 28, 2008 Understanding Disabilities when Designing a Website Published on September 16, 2008 Design Decisions vs. Audience Considerations Published on May 20, 2008 Anyone for a Game of Cards? Published on May 14, 2007 Where Did My Beautiful Internet Go? Published on January 29, 2007 User Interface Design &#8211; &#8230; <a title="Articles by Topic: Usability" class="read-more" href="https://www.digital-web.com/topics/usability/" aria-label="More on Articles by Topic: Usability">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10289" class="post-10289 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/web-standards/" rel="bookmark">Articles by Topic: Web Standards</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T18:01:36+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-01T08:13:58+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/web-standards/">
+							<img width="800" height="800" src="https://www.digital-web.com/wp-content/uploads/2018/08/phone-and-computer.jpeg" class="attachment-full size-full wp-post-image" alt="person holding a phone" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/phone-and-computer.jpeg 800w, https://www.digital-web.com/wp-content/uploads/2018/08/phone-and-computer-150x150.jpeg 150w, https://www.digital-web.com/wp-content/uploads/2018/08/phone-and-computer-300x300.jpeg 300w, https://www.digital-web.com/wp-content/uploads/2018/08/phone-and-computer-768x768.jpeg 768w, https://www.digital-web.com/wp-content/uploads/2018/08/phone-and-computer-45x45.jpeg 45w" sizes="(max-width: 800px) 100vw, 800px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Are Accessibility Statements Useful? Published on November 12, 2008 Review: Web Form Design by Luke Wroblewski Published on August 5, 2008 Smart CSS Ainâ€™t Always Sexy CSS Published on July 15, 2008 Portable Social Networks, The Building Blocks Of A Social Web Published on July 1, 2008 Free Your Embedded Data With SearchMonkey Published on &#8230; <a title="Articles by Topic: Web Standards" class="read-more" href="https://www.digital-web.com/topics/web-standards/" aria-label="More on Articles by Topic: Web Standards">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10287" class="post-10287 post type-post status-publish format-standard has-post-thumbnail hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/interviews/" rel="bookmark">Interviews</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T18:25:04+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-01T07:49:47+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/types/interviews/">
+							<img width="1050" height="700" src="https://www.digital-web.com/wp-content/uploads/2018/08/interview.jpeg" class="attachment-full size-full wp-post-image" alt="interview in progress" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/interview.jpeg 1050w, https://www.digital-web.com/wp-content/uploads/2018/08/interview-300x200.jpeg 300w, https://www.digital-web.com/wp-content/uploads/2018/08/interview-768x512.jpeg 768w, https://www.digital-web.com/wp-content/uploads/2018/08/interview-1024x683.jpeg 1024w" sizes="(max-width: 1050px) 100vw, 1050px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Our timely exchanges with top industry experts in areas such as web design and development are informative and not to be missed. Whether it&#8217;s an in-depth, entertaining profile or quickly touching base with our penetrating &#8220;Five Pertinent Questions,&#8221; we talk with the web professionals who fascinate us most, and then share those conversations with you. &#8230; <a title="Interviews" class="read-more" href="https://www.digital-web.com/types/interviews/" aria-label="More on Interviews">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10285" class="post-10285 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/css/" rel="bookmark">Articles by Topic: CSS</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T18:44:50+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-08-01T07:08:03+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/css/">
+							<img width="604" height="340" src="https://www.digital-web.com/wp-content/uploads/2018/08/technology-1283624__340.jpg" class="attachment-full size-full wp-post-image" alt="css-coding" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/08/technology-1283624__340.jpg 604w, https://www.digital-web.com/wp-content/uploads/2018/08/technology-1283624__340-300x169.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>RESTful CSS Published on November 18, 2008 Everything You Know About CSS Is Wrong Published on October 21, 2008 Smart CSS Ainâ€™t Always Sexy CSS Published on July 15, 2008 Why Opera? Published on January 7, 2008 CSS Not([hacks]) Published on January 7, 2008 Web Design 101: Floats Published on September 10, 2007 Corporate Web &#8230; <a title="Articles by Topic: CSS" class="read-more" href="https://www.digital-web.com/topics/css/" aria-label="More on Articles by Topic: CSS">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10283" class="post-10283 post type-post status-publish format-standard hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/planning/" rel="bookmark">Articles by Topic: Planning</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2018-09-13T04:54:28+00:00" itemprop="dateModified">September 13, 2018</time><time class="entry-date published" datetime="2018-08-01T06:41:35+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			
+			<div class="entry-summary" itemprop="text">
+				<p>RESTful CSS Published on November 18, 2008 Review: Website Optimization Published on November 11, 2008 Concept Design Tools Published on September 30, 2008 How Environments, Real And Virtual, Influence Us Published on August 5, 2008 eCRM: A Virtual Reality Check For Your Business Published on July 29, 2008 Smart CSS Ainâ€™t Always Sexy CSS Published &#8230; <a title="Articles by Topic: Planning" class="read-more" href="https://www.digital-web.com/topics/planning/" aria-label="More on Articles by Topic: Planning">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10280" class="post-10280 post type-post status-publish format-standard hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/wide-open/" rel="bookmark">Wide Open</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-05-22T12:32:10+00:00" itemprop="dateModified">May 22, 2019</time><time class="entry-date published" datetime="2018-08-01T06:26:30+00:00" itemprop="datePublished">August 1, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			
+			<div class="entry-summary" itemprop="text">
+				<p>Wide Open examines the intricacies of usability and access in an ever-changing development environment. David Wertheimer, a designer and usability expert, delves into the hard, often overlooked decisions of utilizing advancing technology: When to push forward, how far to push, when to hold back, and how to slow down without guilt. First Time Caller Published on &#8230; <a title="Wide Open" class="read-more" href="https://www.digital-web.com/types/wide-open/" aria-label="More on Wide Open">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10255" class="post-10255 post type-post status-publish format-standard has-post-thumbnail hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/view_source/" rel="bookmark">View Source</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2018-09-21T18:17:51+00:00" itemprop="dateModified">September 21, 2018</time><time class="entry-date published" datetime="2018-07-31T17:42:01+00:00" itemprop="datePublished">July 31, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/types/view_source/">
+							<img width="480" height="340" src="https://www.digital-web.com/wp-content/uploads/2018/07/code-113611__340.jpg" class="attachment-full size-full wp-post-image" alt="code-program-source" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/07/code-113611__340.jpg 480w, https://www.digital-web.com/wp-content/uploads/2018/07/code-113611__340-300x213.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>View Source takes a close look at interface design and development. The smallest details can distort or damage the big picture, and this column takes on the challenges of skillfully refining every component, action, or bit of code. Early articles covered organizing CSS and JavaScript, cross-browser testing, semantics, and making all of your client-side technologies &#8230; <a title="View Source" class="read-more" href="https://www.digital-web.com/types/view_source/" aria-label="More on View Source">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10253" class="post-10253 post type-post status-publish format-standard hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/ianything_goes/" rel="bookmark">IAnything Goes</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2018-09-13T04:54:28+00:00" itemprop="dateModified">September 13, 2018</time><time class="entry-date published" datetime="2018-07-31T17:31:51+00:00" itemprop="datePublished">July 31, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			
+			<div class="entry-summary" itemprop="text">
+				<p>Information Architecture is no longer an optional aspect of website construction, and often dedicated information architects are not available to put together all the pieces. In IAnything Goes, Jeff Lash will show the importance of information architecture in the web development process, and how non-IAs can learn and incorporate information architecture concepts into their work in the converging &#8230; <a title="IAnything Goes" class="read-more" href="https://www.digital-web.com/types/ianything_goes/" aria-label="More on IAnything Goes">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10251" class="post-10251 post type-post status-publish format-standard has-post-thumbnail hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/design-in-theory-and-practice/" rel="bookmark">Design in Theory and Practice</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T18:34:41+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-07-31T17:24:01+00:00" itemprop="datePublished">July 31, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/types/design-in-theory-and-practice/">
+							<img width="509" height="340" src="https://www.digital-web.com/wp-content/uploads/2007/05/webdesign-3411373__340.jpg" class="attachment-full size-full wp-post-image" alt="website-design-images" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2007/05/webdesign-3411373__340.jpg 509w, https://www.digital-web.com/wp-content/uploads/2007/05/webdesign-3411373__340-300x200.jpg 300w" sizes="(max-width: 509px) 100vw, 509px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>“Design in Theory and Practice” is all about visual communication design for the web. This column will explore topics ranging from the fundamentals of design to typography and motion, to some of the more advanced theoretical concepts surrounding the practice. Joshua David McClurg-Genevese will guide you through the core tenets of the profession using examples from &#8230; <a title="Design in Theory and Practice" class="read-more" href="https://www.digital-web.com/types/design-in-theory-and-practice/" aria-label="More on Design in Theory and Practice">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10249" class="post-10249 post type-post status-publish format-standard has-post-thumbnail hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/behind-the-curtain/" rel="bookmark">Behind the Curtain</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-07-03T14:38:59+00:00" itemprop="dateModified">July 3, 2019</time><time class="entry-date published" datetime="2018-07-31T17:17:26+00:00" itemprop="datePublished">July 31, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/types/behind-the-curtain/">
+							<img width="960" height="685" src="https://www.digital-web.com/wp-content/uploads/2018/07/theater-551797_960_720.jpg" class="attachment-full size-full wp-post-image" alt="curtains" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/07/theater-551797_960_720.jpg 960w, https://www.digital-web.com/wp-content/uploads/2018/07/theater-551797_960_720-300x214.jpg 300w, https://www.digital-web.com/wp-content/uploads/2018/07/theater-551797_960_720-768x548.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>&#8220;Behind the Curtain&#8221; will demystify the world of web programming, revealing it for the straightforward process it should be. Offering an insightful and experienced look on topics that every web developer should be aware of, columnist Jonathan Snook will cover subjects from protocols to frameworks to methodologies to examples. Powering the Web with HTTP Published on June &#8230; <a title="Behind the Curtain" class="read-more" href="https://www.digital-web.com/types/behind-the-curtain/" aria-label="More on Behind the Curtain">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10247" class="post-10247 post type-post status-publish format-standard hentry category-types" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/types/art_of_interaction/" rel="bookmark">Art of Interaction</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2018-09-13T04:54:28+00:00" itemprop="dateModified">September 13, 2018</time><time class="entry-date published" datetime="2018-07-31T17:12:20+00:00" itemprop="datePublished">July 31, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			
+			<div class="entry-summary" itemprop="text">
+				<p>When it comes to creating user interfaces, design and aesthetics are not just frills. Design should not simply take a back seat to function or content. Everyone agrees that a good user experience is important but many miss the fact that design plays an integral role. In his column, Art of Interaction, Didier Hilhorst will assess the &#8230; <a title="Art of Interaction" class="read-more" href="https://www.digital-web.com/types/art_of_interaction/" aria-label="More on Art of Interaction">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/types/" rel="category tag">Types</a></span> 		</footer>
+			</div>
+</article>
+<article id="post-10245" class="post-10245 post type-post status-publish format-standard has-post-thumbnail hentry category-topics" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+					<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="https://www.digital-web.com/topics/web-teams/" rel="bookmark">Articles by Topic: Web Teams</a></h2>		<div class="entry-meta">
+			<span class="posted-on"><time class="updated" datetime="2019-11-16T18:38:25+00:00" itemprop="dateModified">November 16, 2019</time><time class="entry-date published" datetime="2018-07-31T17:09:33+00:00" itemprop="datePublished">July 31, 2018</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope><a class="url fn n" href="https://www.digital-web.com/author/digiwebs/" title="View all posts by digiwebs" rel="author" itemprop="url"><span class="author-name" itemprop="name">digiwebs</span></a></span></span> 		</div>
+					</header>
+			<div class="post-image">
+						
+						<a href="https://www.digital-web.com/topics/web-teams/">
+							<img width="1050" height="700" src="https://www.digital-web.com/wp-content/uploads/2018/07/team.jpeg" class="attachment-full size-full wp-post-image" alt="team work" loading="lazy" itemprop="image" srcset="https://www.digital-web.com/wp-content/uploads/2018/07/team.jpeg 1050w, https://www.digital-web.com/wp-content/uploads/2018/07/team-300x200.jpeg 300w, https://www.digital-web.com/wp-content/uploads/2018/07/team-768x512.jpeg 768w, https://www.digital-web.com/wp-content/uploads/2018/07/team-1024x683.jpeg 1024w" sizes="(max-width: 1050px) 100vw, 1050px" />
+						</a>
+					</div>
+			<div class="entry-summary" itemprop="text">
+				<p>Why Do Web Startups Die? Lack of Alphalpha Published on June 10, 2008 Corporate Web Standards Published on July 16, 2007 The Village Stew Published on February 12, 2007 Risky Business Published on August 18, 2004 A Matter of Styles Published on August 11, 2004 The Ideal Web Team (part 2) Published on May 1, &#8230; <a title="Articles by Topic: Web Teams" class="read-more" href="https://www.digital-web.com/topics/web-teams/" aria-label="More on Articles by Topic: Web Teams">Read more</a></p>
+			</div>
+
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.digital-web.com/category/topics/" rel="category tag">Topics</a></span> 		</footer>
+			</div>
+</article>
+		<nav id="nav-below" class="paging-navigation">
+			<span class="screen-reader-text">Post navigation</span>
+
+								<div class="nav-previous">
+												<span class="prev" title="Previous"><a href="https://www.digital-web.com/page/2/" >Older posts</a></span>
+					</div>
+					<div class="nav-links"><span aria-current="page" class="page-numbers current"><span class="screen-reader-text">Page</span>1</span>
+<a class="page-numbers" href="https://www.digital-web.com/page/2/"><span class="screen-reader-text">Page</span>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://www.digital-web.com/page/40/"><span class="screen-reader-text">Page</span>40</a>
+<a class="next page-numbers" href="https://www.digital-web.com/page/2/">Next <span aria-hidden="true">&rarr;</span></a></div>		</nav>
+				</main>
+	</div>
+
+	<div id="right-sidebar" class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" itemtype="https://schema.org/WPSideBar" itemscope>
+	<div class="inside-right-sidebar">
+		    <style>
+        .rpwe-block ul {
+            list-style: none !important;
+            margin-left: 0 !important;
+            padding-left: 0 !important;
+        }
+
+        .rpwe-block li {
+            border-bottom: 1px solid #eee;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            list-style-type: none;
+        }
+
+        .rpwe-block a {
+            display: inline !important;
+            text-decoration: none;
+        }
+
+        .rpwe-block h3 {
+            background: none !important;
+            clear: none;
+            margin-bottom: 0 !important;
+            margin-top: 0 !important;
+            font-weight: 400;
+            font-size: 12px !important;
+            line-height: 1.5em;
+        }
+
+        .rpwe-thumb {
+            border: 1px solid #EEE !important;
+            box-shadow: none !important;
+            margin: 2px 10px 2px 0;
+            padding: 3px !important;
+        }
+
+        .rpwe-summary {
+            font-size: 12px;
+        }
+
+        .rpwe-time {
+            color: #bbb;
+            font-size: 11px;
+        }
+
+        .rpwe-comment {
+            color: #bbb;
+            font-size: 11px;
+            padding-left: 5px;
+        }
+
+        .rpwe-alignleft {
+            display: inline;
+            float: left;
+        }
+
+        .rpwe-alignright {
+            display: inline;
+            float: right;
+        }
+
+        .rpwe-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .rpwe-clearfix:before,
+        .rpwe-clearfix:after {
+            content: "";
+            display: table !important;
+        }
+
+        .rpwe-clearfix:after {
+            clear: both;
+        }
+
+        .rpwe-clearfix {
+            zoom: 1;
+        }
+    </style>
+<aside id="rpwe_widget-2" class="widget inner-padding rpwe_widget recent-posts-extended"><h2 class="widget-title">Recent Posts</h2><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/general/the-power-and-problems-of-provisional-personas-in-ux-design/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2016/01/UX-phone-image-45x45.jpg" alt="The Power and Problems of Provisional Personas in UX design" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/general/the-power-and-problems-of-provisional-personas-in-ux-design/" title="Permalink to The Power and Problems of Provisional Personas in UX design" rel="bookmark">The Power and Problems of Provisional Personas in UX design</a></h3><time class="rpwe-time published" datetime="2016-01-19T17:47:00+00:00">January 19, 2016</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/seo/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/seo-45x45.jpg" alt="Articles by Topic: Search Engine Optimization (SEO)" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/seo/" title="Permalink to Articles by Topic: Search Engine Optimization (SEO)" rel="bookmark">Articles by Topic: Search Engine Optimization (SEO)</a></h3><time class="rpwe-time published" datetime="2018-08-03T08:57:34+00:00">August 3, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/rss-2/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/rss-icon-45x45.png" alt="Articles by Topic: RSS" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/rss-2/" title="Permalink to Articles by Topic: RSS" rel="bookmark">Articles by Topic: RSS</a></h3><time class="rpwe-time published" datetime="2018-08-03T08:51:30+00:00">August 3, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/liquid-web-design-2/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/liquid-web-design-45x45.jpg" alt="Articles by Topic: Liquid Web Design" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/liquid-web-design-2/" title="Permalink to Articles by Topic: Liquid Web Design" rel="bookmark">Articles by Topic: Liquid Web Design</a></h3><time class="rpwe-time published" datetime="2018-08-03T07:30:15+00:00">August 3, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/kiss/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/kiss-web-design-articles-45x45.png" alt="Articles by Topic: Keep It Simple (KISS)" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/kiss/" title="Permalink to Articles by Topic: Keep It Simple (KISS)" rel="bookmark">Articles by Topic: Keep It Simple (KISS)</a></h3><time class="rpwe-time published" datetime="2018-08-03T07:24:11+00:00">August 3, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/information-design/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/statistic-1820320__340-45x45.png" alt="Articles by Topic: Information Design" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/information-design/" title="Permalink to Articles by Topic: Information Design" rel="bookmark">Articles by Topic: Information Design</a></h3><time class="rpwe-time published" datetime="2018-08-03T06:44:32+00:00">August 3, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/graphic-design-2/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/workplace-2230698__340-45x45.jpg" alt="Articles by Topic: Graphic Design" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/graphic-design-2/" title="Permalink to Articles by Topic: Graphic Design" rel="bookmark">Articles by Topic: Graphic Design</a></h3><time class="rpwe-time published" datetime="2018-08-03T06:38:06+00:00">August 3, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/flash/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/youtube-1684601_960_720-45x45.png" alt="Articles by Topic: Flash" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/flash/" title="Permalink to Articles by Topic: Flash" rel="bookmark">Articles by Topic: Flash</a></h3><time class="rpwe-time published" datetime="2018-08-03T06:23:23+00:00">August 3, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/columns/artofinteraction/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/colums-45x45.jpeg" alt="Art of Interaction Column" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/columns/artofinteraction/" title="Permalink to Art of Interaction Column" rel="bookmark">Art of Interaction Column</a></h3><time class="rpwe-time published" datetime="2018-08-03T05:57:07+00:00">August 3, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/business/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/business-2884023__340-45x45.jpg" alt="Articles by Topic: Business" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/business/" title="Permalink to Articles by Topic: Business" rel="bookmark">Articles by Topic: Business</a></h3><time class="rpwe-time published" datetime="2018-08-01T18:55:00+00:00">August 1, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/types/web-design-101/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/website-design-45x45.jpeg" alt="Web Design 101" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/types/web-design-101/" title="Permalink to Web Design 101" rel="bookmark">Web Design 101</a></h3><time class="rpwe-time published" datetime="2018-08-01T10:30:28+00:00">August 1, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/types/book-reviews/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/books-education-school-literature-51342-45x45.jpeg" alt="Book Reviews" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/types/book-reviews/" title="Permalink to Book Reviews" rel="bookmark">Book Reviews</a></h3><time class="rpwe-time published" datetime="2018-08-01T10:19:56+00:00">August 1, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/types/articles/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/articles-on-computer-45x45.jpeg" alt="Articles" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/types/articles/" title="Permalink to Articles" rel="bookmark">Articles</a></h3><time class="rpwe-time published" datetime="2018-08-01T10:05:21+00:00">August 1, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/hci/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/student-849825__340-45x45.jpg" alt="Articles by Topic: Human-Computer Interaction (HCI)" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/hci/" title="Permalink to Articles by Topic: Human-Computer Interaction (HCI)" rel="bookmark">Articles by Topic: Human-Computer Interaction (HCI)</a></h3><time class="rpwe-time published" datetime="2018-08-01T09:05:26+00:00">August 1, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/usability/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/usability-45x45.jpeg" alt="Articles by Topic: Usability" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/usability/" title="Permalink to Articles by Topic: Usability" rel="bookmark">Articles by Topic: Usability</a></h3><time class="rpwe-time published" datetime="2018-08-01T08:40:54+00:00">August 1, 2018</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.digital-web.com/topics/web-standards/"><img class="rpwe-alignleft rpwe-thumb" src="https://www.digital-web.com/wp-content/uploads/2018/08/phone-and-computer-45x45.jpeg" alt="Articles by Topic: Web Standards" height="45" width="45"></a><h3 class="rpwe-title"><a href="https://www.digital-web.com/topics/web-standards/" title="Permalink to Articles by Topic: Web Standards" rel="bookmark">Articles by Topic: Web Standards</a></h3><time class="rpwe-time published" datetime="2018-08-01T08:13:58+00:00">August 1, 2018</time></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>	</div>
+</div>
+
+	</div>
+</div>
+
+
+<div class="site-footer">
+				<div id="footer-widgets" class="site footer-widgets">
+				<div class="footer-widgets-container grid-container grid-parent">
+					<div class="inside-footer-widgets">
+							<div class="footer-widget-1 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+		<aside id="text-2" class="widget inner-padding widget_text">			<div class="textwidget"><p><img class="logo-image" src="https://www.digital-web.com/wp-content/uploads/2018/07/digital-web-logo.png" width="190px" alt="Digital Web Magazine"></p>
+<p>Digital Web Magazine is a non-profit publication created by a world-wide network of volunteers dedicated to producing quality educational and informative material free-of-charge, to foster the development of the web for the benefit of all.</p>
+<p>Email: info@digital-web.com</p>
+</div>
+		</aside>	</div>
+		<div class="footer-widget-2 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+		
+		<aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">
+		<h2 class="widget-title">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://www.digital-web.com/topics/seo/">Articles by Topic: Search Engine Optimization (SEO)</a>
+									</li>
+											<li>
+					<a href="https://www.digital-web.com/topics/rss-2/">Articles by Topic: RSS</a>
+									</li>
+											<li>
+					<a href="https://www.digital-web.com/topics/liquid-web-design-2/">Articles by Topic: Liquid Web Design</a>
+									</li>
+											<li>
+					<a href="https://www.digital-web.com/topics/kiss/">Articles by Topic: Keep It Simple (KISS)</a>
+									</li>
+											<li>
+					<a href="https://www.digital-web.com/topics/information-design/">Articles by Topic: Information Design</a>
+									</li>
+					</ul>
+
+		</aside>	</div>
+		<div class="footer-widget-3 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+			</div>
+						</div>
+				</div>
+			</div>
+					<footer class="site-info" itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container grid-parent">
+								<div class="copyright-bar">
+					© 2019 Digital Web				</div>
+			</div>
+		</footer>
+		</div>
+
+<!--[if lte IE 11]>
+<script src='https://www.digital-web.com/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.0.3' id='generate-classlist-js'></script>
+<![endif]-->
+<script id='generate-main-js-extra'>
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script src='https://www.digital-web.com/wp-content/themes/generatepress/assets/js/main.min.js?ver=3.0.3' id='generate-main-js'></script>
+<script id='generate-navigation-search-js-extra'>
+var generatepressNavSearch = {"open":"Open Search Bar","close":"Close Search Bar"};
+</script>
+<script src='https://www.digital-web.com/wp-content/themes/generatepress/assets/js/navigation-search.min.js?ver=3.0.3' id='generate-navigation-search-js'></script>
+
+</body>
+</html>
